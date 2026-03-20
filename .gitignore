@@ -1,0 +1,10 @@
+*.out
+*.exe
+*.o
+*.obj
+lexer
+parser
+.DS_Store
+.vscode/
+*.log
+
